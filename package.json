@@ -1,5 +1,5 @@
 {
-  "name": "pdf-generator-api-client",
+  "name": "@toosick/pdf-generator-api-client",
   "version": "3.1.1",
   "description": "Javascript wrapper for PDF Generator API",
   "license": "Unlicense",
